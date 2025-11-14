@@ -111,7 +111,7 @@ checkpoint-react/
 │   ├── routes/
 │   │   └── AppRoutes.jsx
 │   |
-├── publix/
+├── public/
 │   ├── favicon.ico
 │   |
 
