@@ -1,5 +1,9 @@
 Arquivos modificados (caso for testar, copie e cole esses novos deste repositório):
 
 Mudança no Header das páginas:
-  - 
-  - 
+  - Header.tsx
+  - NavLinks.tsx
+  - tailwind.config.ts
+  - main.tsx
+  - AuthModals.tsx
+
